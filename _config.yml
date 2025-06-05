@@ -1,0 +1,19 @@
+# Hexo 配置文件
+
+title: Honix Blog
+subtitle: ""
+description: "一个简易的 Hexo 博客示例"
+author: Honix
+language: zh-CN
+timezone: Asia/Shanghai
+
+# URL
+url: http://example.com
+root: /
+permalink: :year/:month/:day/:title/
+permalink_defaults: {}
+
+# 目录
+source_dir: source
+public_dir: public
+theme: landscape
